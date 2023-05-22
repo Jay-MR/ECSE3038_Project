@@ -4,5 +4,6 @@ Embedded/.vscode/c_cpp_properties.json
 Embedded/.vscode/launch.json
 Embedded/.vscode/ipch
 Embedded/include/env.h
+Embedded/.vscode/
 venv/
 Embedded/.gitignore
