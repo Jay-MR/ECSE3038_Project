@@ -1,0 +1,8 @@
+Embedded/.pio
+Embedded/.vscode/.browse.c_cpp.db*
+Embedded/.vscode/c_cpp_properties.json
+Embedded/.vscode/launch.json
+Embedded/.vscode/ipch
+Embedded/include/env.h
+venv/
+Embedded/.gitignore
